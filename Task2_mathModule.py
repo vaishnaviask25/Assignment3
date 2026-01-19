@@ -6,5 +6,6 @@ log = math.log(num)
 sine = math.sin(num)
 
 print(f"Square root: {square_root}")
-print(f"Logrithm: {log}")
+print(f"Logarithm: {log}")
+
 print(f"sine: {sine}")
